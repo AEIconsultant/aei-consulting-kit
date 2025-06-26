@@ -1,0 +1,8 @@
+{
+  "Energy": { "Electricity": 0.386, "Natural gas": 5.3 },
+  "Transport": { "Car fuel": 8.89, "Flights": 0.18 },
+  "Food": { "Beef": 27.0, "Chicken": 6.9, "Dairy": 3.0 },
+  "Water": { "Municipal": 0.34 },
+  "Waste": { "Landfill": 0.45 },
+  "Digital": { "Cloud-compute": 0.40 }
+}
